@@ -8,8 +8,8 @@ Data, is the new bacon.
 
 Ethiopian Investment Commission
 
-*August 1992 - June 2021, Foreign Direct Investment (FDI) Dataset*
-
 [ETHIOPIA, TRADE DATA - BitcoinBirr.org](https://drive.google.com/drive/folders/1plR-vDXQQjONAxn-Lh2QZ4_3QSrrIK7I?usp=sharing)
+
+*August 1992 - June 2021, Foreign Direct Investment (FDI) Dataset*
 
 ![Data Dump, Title - Ethiopian Investment Commission, bitcoinbirr org](https://user-images.githubusercontent.com/87287532/126027506-3bb10e0b-ddb0-435d-89a0-7b344ddebd98.jpg)
