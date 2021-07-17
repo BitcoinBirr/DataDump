@@ -8,7 +8,7 @@ Data is the new bacon. Full stop.
 
 Ethiopian Investment Commission
 
-[ETHIOPIA, TRADE DATA - BitcoinBirr.org](https://drive.google.com/drive/folders/1plR-vDXQQjONAxn-Lh2QZ4_3QSrrIK7I?usp=sharing)
+[ETHIOPIA, INVESTMENT DATA - BitcoinBirr.org](https://drive.google.com/drive/folders/1plR-vDXQQjONAxn-Lh2QZ4_3QSrrIK7I?usp=sharing)
 
 *August 1992 - June 2021, Foreign Direct Investment (FDI) Dataset*
 
