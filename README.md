@@ -1,6 +1,6 @@
 # DataDump
 
-Data, is the new bacon.
+Data is the new bacon. Full stop.
 
 ![Data Dump Cover - GitHub](https://user-images.githubusercontent.com/87287532/126027186-25f91ce0-6e74-4a4f-9aa3-d6ebe006b6f3.jpg)
 
